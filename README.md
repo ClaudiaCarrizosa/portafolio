@@ -14,6 +14,7 @@ También contiene una sección de almacenamiento de archivos *(imágenes)* que n
 
 Puedes entrar a ver el demo en este vínculo: 
 https://tangerine-cobbler-73041c.netlify.app/
+
 La idea es inspirarte con esta demostración de proyecto. 
 
 **¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
